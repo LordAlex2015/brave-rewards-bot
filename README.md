@@ -23,6 +23,8 @@ Modify `config.json` for your screen
 
 ### Elements Coords
 
+Check [https://github.com/LordAlex2015/get-mouse-coords](https://github.com/LordAlex2015/get-mouse-coords) to get mouse coords
+
 search_bar = ![img1.png](https://i.arvix.ml/AxWmxzD.png)
 
 new_tab = ![img2.png](https://i.arvix.ml/pkL7SCZ.png)
