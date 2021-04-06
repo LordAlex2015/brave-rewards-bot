@@ -1,0 +1,25 @@
+{
+  "name": "brave-rewards-bot",
+  "version": "1.0.0",
+  "description": "Brave Rewards Farm Bot EDUCATIONAL PURPOSES ONLY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts"
+  },
+  "author": "ArviX#8443",
+  "license": "MIT",
+  "dependencies": {
+    "parse-ms": "^2.1.0",
+    "puppeteer": "^8.0.0",
+    "robotjs": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordAlex2015/brave-rewards-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LordAlex2015/brave-rewards-bot/issues"
+  },
+  "homepage": "https://github.com/LordAlex2015/brave-rewards-bot#readme"
+}

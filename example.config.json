@@ -1,0 +1,33 @@
+{
+  "pos": {
+    "search_bar": {
+      "x": 536,
+      "y": 85
+    },
+    "new_tab": {
+      "x": 264,
+      "y": 54
+    },
+    "first_tab": {
+      "x": 130,
+      "y": 54
+    },
+    "scroll_bar": {
+      "start": {
+        "x": 1913,
+        "y": 203
+      },
+      "stop": {
+        "x": 1913,
+        "y": 597
+      }
+    }
+  },
+  "websites": [
+    "01net.com",
+    "brave.com"
+  ],
+  "loop": true,
+  "limit": 3,
+  "stayOnPage": 2500
+}
