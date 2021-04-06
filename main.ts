@@ -88,4 +88,5 @@ function stop(times) {
         answer.push(`${elapsed.seconds} second(s)`)
     }
     console.log(`Elapsed ${answer.join(', ')}`)
+    process.exit(0)
 }
