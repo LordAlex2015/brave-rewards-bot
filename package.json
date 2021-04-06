@@ -12,7 +12,9 @@
   "dependencies": {
     "parse-ms": "^2.1.0",
     "puppeteer": "^8.0.0",
-    "robotjs": "^0.6.0"
+    "robotjs": "^0.6.0",
+    "typescript": "latest",
+    "ts-node": "latest"
   },
   "repository": {
     "type": "git",
